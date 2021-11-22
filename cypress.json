@@ -1,0 +1,5 @@
+{
+    "integrationFolder": 	"cypress/Tests",
+    "baseUrl": "https://www.saucedemo.com/",
+    "chromeWebSecurity": false
+}
