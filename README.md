@@ -4,7 +4,7 @@
 3. Open a new terminal
   - Install Cypress - Type `npm install cypress`
   - Install npx - Type `npm install -g npx`
-4. Downlaod the files from this directory and add to the above newly created folder
+4. Download the files from this directory and add to the above newly created folder
   - Replace files that are already there as you need the files from the download
 
 # To Run the Test
